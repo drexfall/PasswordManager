@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PasswordManager</string>
+    <string name="title_home">Add</string>
+    <string name="title_dashboard">Passwords</string>
+    <string name="title_notifications">Generator</string>
+    <string name="title_about">About</string>
+    <string name="add_password">Add Password</string>
+    <string name="edit_password">Edit Password</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="website">Website</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="toast_password_saved">Password saved</string>
+    <string name="about_us_title">About Us</string>
+    <string name="about_us_description">I am a developer, keen on keeping your passwords secure and easily accessible. This app is designed with user privacy in mind, so you can trust us to keep your information safe.</string>
+    <string name="about_us_team">Our Team</string>
+    <string name="about_us_member_1_name">Shreyash Singh</string>
+    <string name="about_us_member_1_bio">I am the founder and lead developer of this app and have over 2 years of experience in software development. I\'m passionate about creating user-friendly applications that help people manage their digital lives.</string>
+    <string name="about_us_member_2_name">Symbiosis Institute of Computer Studies and Research</string>
+    <string name="about_us_member_2_bio">SICSR is the guidance that made this application possible. It is my under-graduation college from where I\'m pursuing my BCA!</string>
+</resources>
